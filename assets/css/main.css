@@ -1577,6 +1577,14 @@ ul {
     display: none !important;
 }
 
+.portfolio__text{
+    font-size: 37px;
+    color: white;
+    text-align: center;
+    margin-top: 3.7em;
+    background-color:rgb(127, 124, 130, 0.85);
+}
+
 .portfolio__icon {
     position: absolute;
     top: 50%;
